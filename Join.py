@@ -1,4 +1,4 @@
-#Create By SerlorsX_#0001
+#Made By SerlorsX_#0001
 import httpx, random
 
 class variousAPI:
